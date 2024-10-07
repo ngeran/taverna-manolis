@@ -3,3 +3,10 @@ languageCode = 'en-us'
 title = 'Taverna O Manolis'
 
 theme = "blowfish"
+
+
+# Add any links to things in /content/ here
+[[menu.main]]
+name = "About"
+url = "/about/"
+weight = 1
