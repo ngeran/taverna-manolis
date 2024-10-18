@@ -12,13 +12,19 @@
 
 [[main]]
   name = "Αρχική"
-  pageRef = "main/index"
+  pageRef = "/"
   weight = 10
+
+  [[main]]
+  name = "Η Ταβέρνα"
+  pageRef = "main/about"
+  weight = 20
+
 
   [[main]]
   name = "Κατάλογος"
   pageRef = "main/catalog"
-  weight = 20
+  weight = 30
 
 #[[main]]
 #  name = "Parent"
