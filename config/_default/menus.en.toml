@@ -17,13 +17,13 @@
 
   [[main]]
   name = "Η Ταβέρνα"
-  pageRef = "main/about"
+  pageRef = "about"
   weight = 20
 
 
   [[main]]
   name = "Κατάλογος"
-  pageRef = "main/catalog"
+  pageRef = "catalog"
   weight = 30
 
 #[[main]]
