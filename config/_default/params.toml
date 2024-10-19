@@ -21,7 +21,7 @@ disableImageOptimization = false
 disableTextInHeader = false
 # backgroundImageWidth = 1200
 
-# defaultBackgroundImage = "images/taverna-main-image.png" # used as default for background images 
+# defaultBackgroundImage = "main.png" # used as default for background images 
 # defaultFeaturedImage = "IMAGE.jpg" # used as default for featured images in all articles
 
 # highlightCurrentMenuArea = true
@@ -32,7 +32,7 @@ giteaDefaultServer = "https://git.fsfe.org"
 forgejoDefaultServer = "https://v8.next.forgejo.org"
 
 [header]
-  layout = "basic" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
+  layout = "fixed" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
 
 [footer]
   showMenu = true
@@ -42,15 +42,15 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   showScrollToTop = true
 
 [homepage]
-  layout = "profile" # valid options: page, profile, hero, card, background, custom
-  homepageImage = "images/taverna-main-image.png" # used in: hero, and card
-  showRecent = false
-  showRecentItems = 5
+  layout = "background" # valid options: page, profile, hero, card, background, custom
+  homepageImage = "main.png" # used in: hero, and card
+  showRecent = true
+  showRecentItems = 8
   showMoreLink = false
   showMoreLinkDest = "/posts/"
-  cardView = false
-  cardViewScreenWidth = false
-  layoutBackgroundBlur = false # only used when layout equals background
+  cardView = true
+  cardViewScreenWidth = true
+  layoutBackgroundBlur = true # only used when layout equals background
 
 [article]
   showDate = false
@@ -58,45 +58,45 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   showLikes = false
   showDateOnlyInArticle = false
   showDateUpdated = false
-  showAuthor = false
+  showAuthor = true
   # showAuthorBottom = false
   showHero = true
   heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
   showBreadcrumbs = false
-  showDraftLabel = false
+  showDraftLabel = true
   showEdit = false
   # editURL = "https://github.com/username/repo/"
-  editAppendPath = false
+   editAppendPath = true
   seriesOpened = false
-  showHeadingAnchors = false
-  showPagination = false
+  showHeadingAnchors = true
+  showPagination = true
   invertPagination = false
-  showReadingTime = false
+  showReadingTime = true
   showTableOfContents = true
-  # showRelatedContent = false
-  # relatedContentLimit = 3
-  showTaxonomies = false
+  showRelatedContent = true
+  relatedContentLimit = 3
+  showTaxonomies = true
   showAuthorsBadges = false
-  showWordCount = false
+  showWordCount = true
   # sharingLinks = [ "linkedin", "twitter", "bluesky", "mastodon", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram"]
   showZenMode = false
 
 [list]
   showHero = false
-  # heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
-  #layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
+  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
   showBreadcrumbs = false
   showSummary = false
   showViews = false
   showLikes = false
   showTableOfContents = true
-  showCards = false
+  showCards = true
   orderByWeight = false
   groupByYear = false
-  cardView = false
+  cardView = true
   cardViewScreenWidth = false
   constrainItemsWidth = false
 
