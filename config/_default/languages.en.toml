@@ -2,7 +2,7 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Ταβέρνα Ο Μανώλης"
+# title = "Ταβέρνα Ο Μανώλης"
 
 [params]
   displayName = "EN"
@@ -15,9 +15,9 @@ title = "Ταβέρνα Ο Μανώλης"
   copyright = "&copy; 2024 Ταβέρνα Ο Μανώλης. All Rights Reserved."
 
 # [params.author]
-    name = "Ταβέρνα Ο Μανώλης"
+#   name = "Ταβέρνα Ο Μανώλης"
 #   email = "youremail@example.com"
-    image = "images/logo.png"
+    image = "img/logo.png"
     imageQuality = 96
     headline = "licensed to grill"
     bio = "Η σχάρα κυριαρχεί στο μαγαζί, κι εκτός από μοσχαρίσιες και χοιρινές μπριζόλες,μπιφτέκια και παϊδάκια ψήνει και ψάρι, χειροποίητες πίτες εμφανίζονται σε ανύποπτούς χρόνους, ενώ τα μεσημέρια η κυρία Σπυριδούλα φτιάχνει και μαγειρευτά."
