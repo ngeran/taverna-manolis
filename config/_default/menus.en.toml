@@ -23,8 +23,31 @@
 
   [[main]]
   name = "Κατάλογος"
+  weight = 20
+
+  [[main]]
+  name = "μαγειρευτά"
+  parent = "Κατάλογος"
+  pageRef = "cooked"
+  weight = 20
+
+  [[main]]
+  name = "της ώρας"
+  parent = "Κατάλογος"
   pageRef = "catalog"
+  weight = 20
+
+  [[main]]
+  name = "Press"
+  pageRef = "press"
   weight = 30
+
+  [[main]]
+  name = "Επικοινωνία"
+  pageRef = "contact"
+  weight = 40
+  
+
 
 #[[main]]
 #  name = "Parent"
