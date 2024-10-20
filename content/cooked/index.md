@@ -5,19 +5,55 @@ tags = ["Παστίτσιο","Γεμιστα","Φασολάδα","Λεμονάτ
 draft = false
 +++
 
+<style>
 
-### Μελιτζάνες ιμαμ φούρνου
+table {
+    width: 100%;
+  }
+</style>
 
-Το ιμάμ είναι ένα παραδοσιακό πιάτο ιδανικό για για όλες τις εποχές. Με μπόλικο κρεμμύδι, και γενναίο σκόρδο.
+> Τα μαγειρευτά είναι διαθέσιμα μόνο το μεσημέρι.  
+> Παρακαλώ καλέστε στο τηλέφωνο (210) 68-24-342 για διαθεσιμότητα.
 
-### Παραδοσιακό παστίτσιο
+{{< lead >}}
+Σας προτείνουμε να δοκιμάσετε.
+{{< /lead >}}
 
-Ενα από τα πιο γνωστά Ελληνικά παραδοσιακά πιάτα το παστίτσιο με φρεσκοκομμένος κιμά και χρυσαφένια και πλούσια μπεσαμέλ. Αγαπημένο φαγητό μικρών και μεγάλων!
 
-### Ρεβύθια στο φούρνο
+<section class="flex gap-4">
+<div class="rounded-lg min-h-full border border-neutral-200 dark:border-neutral-700 border-2 overflow-hidden shadow-2xl relative">
+<div class="rounded-lg w-full thumbnail_card_related" style="background-image:url(pastitsio-768x768.jpg)"></div>
+<div class="px-6 py-4">
+<div class="font-bold text-xl text-neutral-800 decoration-primary-500 dark:text-neutral">Παστίτσιο</div>
+<div class="text-sm text-neutral-500 dark:text-neutral-400">Ενα από τα πιο γνωστά Ελληνικά παραδοσιακά πιάτα, με φρεσκοκομμένο κιμά και πλούσια μπεσαμέλ.</div>
+</div>
+</div>
 
-Είναι πολύ γευστικά αυτά τα ρεβύθια που ξεκινάνε στην κατσαρόλα και τελειώνουν στον φούρνο.
+<div class="min-h-full border border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-2xl relative">
+<div class="w-full thumbnail_card_related" style="background-image:url(gemista-1-768x768.jpg)"></div>
+<div class="px-6 py-4">
+<div class="font-bold text-xl text-neutral-800 decoration-primary-500 dark:text-neutral">Παστίτσιο</div>
+<div class="text-sm text-neutral-500 dark:text-neutral-400">Ενα από τα πιο γνωστά Ελληνικά παραδοσιακά πιάτα, με φρεσκοκομμένο κιμά και πλούσια μπεσαμέλ.</div>
+</div>
+</div>
 
-### Παραδοσιακά Γεμιστά
+<div class="min-h-full border border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-2xl relative">
+<div class="w-full thumbnail_card_related" style="background-image:url(pastitsio-768x768.jpg)"></div>
+<div class="px-6 py-4">
+<div class="font-bold text-xl text-neutral-800 decoration-primary-500 dark:text-neutral">Παστίτσιο</div>
+<div class="text-sm text-neutral-500 dark:text-neutral-400">Ενα από τα πιο γνωστά Ελληνικά παραδοσιακά πιάτα, με φρεσκοκομμένο κιμά και πλούσια μπεσαμέλ.</div>
+</div>
+</div>
+</section>
 
-Τραπέζι χωρίς γεμιστά δεν γίνεται! Γεμιστές τομάτες και πιπεριές με ρύζι, πατάτες και πολλά μυρωδικά! 
+
+| <h3>Τιμοκατάλογος μαγειρευτών</h3>                                               | <img width="441" height="1"> |             |
+| :------------------------------------------------------------------------------- | ---------------------------- | ----------: |
+| Μοσχαράκι Κοκκινιστό Με Πατάτες<br>Braised Beef With Fries                       |                              |      €10,00 |
+| Λεμονάτο Κοτόπουλο Με Πατάτες<br>Lemon Chicken With Fries                        |                              |      €10,00 |
+| Παστιτσιο<br>Pasticcio (traditional greek recipe)                                |                              |       €8,00 |
+| Γεμιστα Χωρις Κιμα (Ντομάτες και Πιπεριές)<br>Stuffed Tomatos and Peppers        |                              |       €6,00 |
+| Φασολάδα<br>Bean Soup with tomato                                                |                              |       €6,00 |
+| Λαχανοντολμάδες<br>Cabbage Rolles                                                |                              |      €12,00 |
+| Κολοκύθια Γεμιστα ,Αυγολέμονο<br>Zucchini Stuffed with lemon sauce               |                              |      €10,00 |
+| Ψαροσουπα<br>Fish Soup                                                           |                              |      €10,00 |

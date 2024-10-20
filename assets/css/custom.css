@@ -1,37 +1,4 @@
 /*! Nikos Custom CSS */
-.stews{
-    display: flex;
-}
-.taverna {
-    display: flex;
-}
-.box {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    align-items: center;
-    gap: 10px;
-    border-radius: 15px;
-}
-.image{
-
-
-}
-
-
-
-
-
-
-
-
-
-
-
-/* Optional: Add media queries for responsiveness */
-@media (max-width: 600px) {
-    .container img {
-        flex: 1 1 100%;
-        /* Full width on small screens */
-    }
+table {
+    width:100%;
 }
