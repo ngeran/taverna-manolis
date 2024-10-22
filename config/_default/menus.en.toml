@@ -20,32 +20,36 @@
   pageRef = "about"
   weight = 20
 
-
   [[main]]
   name = "Κατάλογος"
-  weight = 20
+  weight = 30
 
   [[main]]
   name = "μαγειρευτά"
   parent = "Κατάλογος"
   pageRef = "cooked"
-  weight = 20
+  weight = 30
 
   [[main]]
   name = "της ώρας"
   parent = "Κατάλογος"
   pageRef = "catalog"
-  weight = 20
+  weight = 30
+
+  [[main]]
+  name = "Φωτογραφίες"
+  pageRef = "photos"
+  weight = 40
 
   [[main]]
   name = "Press"
   pageRef = "press"
-  weight = 30
+  weight = 50
 
   [[main]]
   name = "Επικοινωνία"
   pageRef = "contact"
-  weight = 40
+  weight = 60
   
 
 
