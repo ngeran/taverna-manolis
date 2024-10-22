@@ -5,12 +5,6 @@ tags = ["Παστίτσιο","Γεμιστα","Φασολάδα","Λεμονάτ
 draft = false
 +++
 
-<style>
-
-table {
-    width: 100%;
-  }
-</style>
 
 > Τα μαγειρευτά είναι διαθέσιμα μόνο το μεσημέρι.  
 > Παρακαλώ καλέστε στο τηλέφωνο (210) 6824342 για διαθεσιμότητα.
@@ -21,27 +15,27 @@ table {
 
 
 <section class="flex gap-4">
-<div class="rounded-lg min-h-full border border-neutral-200 dark:border-neutral-700 border-2 overflow-hidden shadow-2xl relative">
-<div class="rounded-lg w-full thumbnail_card_related" style="background-image:url(pastitsio-768x768.jpg)"></div>
-<div class="px-6 py-4">
-<div class="font-bold text-xl text-neutral-800 decoration-primary-500 dark:text-neutral">Παστίτσιο</div>
-<div class="text-sm text-neutral-500 dark:text-neutral-400">Ενα από τα πιο γνωστά Ελληνικά παραδοσιακά πιάτα, με φρεσκοκομμένο κιμά και πλούσια μπεσαμέλ.</div>
-</div>
-</div>
-
-<div class="min-h-full border border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-2xl relative">
-<div class="w-full thumbnail_card_related" style="background-image:url(gemista-1-768x768.jpg)"></div>
-<div class="px-6 py-4">
-<div class="font-bold text-xl text-neutral-800 decoration-primary-500 dark:text-neutral">Παστίτσιο</div>
-<div class="text-sm text-neutral-500 dark:text-neutral-400">Ενα από τα πιο γνωστά Ελληνικά παραδοσιακά πιάτα, με φρεσκοκομμένο κιμά και πλούσια μπεσαμέλ.</div>
-</div>
-</div>
-
-<div class="min-h-full border border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-2xl relative">
+<div class="rounded-lg min-h-full border border-neutral-200 dark:border-neutral-700 border-2 shadow-2xl">
 <div class="w-full thumbnail_card_related" style="background-image:url(pastitsio-768x768.jpg)"></div>
 <div class="px-6 py-4">
 <div class="font-bold text-xl text-neutral-800 decoration-primary-500 dark:text-neutral">Παστίτσιο</div>
 <div class="text-sm text-neutral-500 dark:text-neutral-400">Ενα από τα πιο γνωστά Ελληνικά παραδοσιακά πιάτα, με φρεσκοκομμένο κιμά και πλούσια μπεσαμέλ.</div>
+</div>
+</div>
+
+<div class="rounded-lg min-h-full border border-neutral-200 dark:border-neutral-700 border-2 shadow-2xl">
+<div class="w-full thumbnail_card_related" style="background-image:url(gemista-1-768x768.jpg)"></div>
+<div class="px-6 py-4">
+<div class="font-bold text-xl text-neutral-800 decoration-primary-500 dark:text-neutral">Γεμιστά</div>
+<div class="text-sm text-neutral-500 dark:text-neutral-400">Γεμιστές τομάτες και πιπεριές με ρύζι, πατάτες και πολλά μυρωδικά!</div>
+</div>
+</div>
+
+<div class="rounded-lg min-h-full border border-neutral-200 dark:border-neutral-700 border-2 shadow-2xl">
+<div class="w-full thumbnail_card_related" style="background-image:url(revythia-1-768x768.jpg)"></div>
+<div class="px-6 py-4">
+<div class="font-bold text-xl text-neutral-800 decoration-primary-500 dark:text-neutral">Ρεβύθια στο φούρνο</div>
+<div class="text-sm text-neutral-500 dark:text-neutral-400">Είναι πολύ γευστικά αυτά τα ρεβύθια που ξεκινάνε στην κατσαρόλα και τελειώνουν στον φούρνο.</div>
 </div>
 </div>
 </section>
