@@ -10,12 +10,6 @@
   <figcaption><h4>June 2014</h4></figcaption>
 </figure>
 
-### Το Χαλάνδρι των γεύσεων
-<figure>
-  <img src="athens_voice_2018.jpg">
-  <figcaption><h4>November 2016</h4></figcaption>
-</figure>
-
 ### Μανωλης και οι Γιοι του
 <figure>
   <img src="july_2017.jpg">
