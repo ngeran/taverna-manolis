@@ -3,7 +3,7 @@
 
 ---
 
-## Gallery 1
+## Καλλιτέχνες
 
 {{< gallery >}}
   <img src="AMINA.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
