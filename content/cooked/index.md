@@ -31,14 +31,6 @@ draft = false
 </div>
 </div>
 
-<div class="rounded-lg min-h-full border border-neutral-200 dark:border-neutral-700 border-2 shadow-2xl">
-<div class="w-full thumbnail_card_related" style="background-image:url(revythia-1-768x768.jpg)"></div>
-<div class="px-6 py-4">
-<div class="font-bold text-xl text-neutral-800 decoration-primary-500 dark:text-neutral">Ρεβύθια στο φούρνο</div>
-<div class="text-sm text-neutral-500 dark:text-neutral-400">Είναι πολύ γευστικά αυτά τα ρεβύθια που ξεκινάνε στην κατσαρόλα και τελειώνουν στον φούρνο.</div>
-</div>
-</div>
-
 </section>
 
 >Οι τιμές μπορούν να αλλάξουν χωρίς προειδοποίηση.  
