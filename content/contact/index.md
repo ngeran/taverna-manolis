@@ -13,3 +13,9 @@
 - Δευτέρα - Παρασκευή: 12:00 - 23:00
 - Σάββατο - 12:00 - 23:00
 - Κυριακή - 12:00 - 17:00
+
+| Content | Example |
+| --- | --- |
+| List | <ul><li>aaa</li><li>bbb</li><ul> |
+| Code block | <pre><code>ccc</code></pre> |
+| Image | <img src="/assets/images/2023/tables-example.png"> |
