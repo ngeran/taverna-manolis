@@ -26,12 +26,12 @@ draft = false
 | Μοσχαράκι Κοκκινιστό Με Πατάτες<br>Braised Beef With Fries                       |                              |      €10,00 |
 | Λεμονάτο Κοτόπουλο Με Πατάτες<br>Lemon Chicken With Fries                        |                              |      €10,00 |
 | Παστιτσιο<br>Pasticcio (traditional greek recipe)                                |                              |       €8,00 |
-| Γεμιστα Χωρις Κιμα (Ντομάτες και Πιπεριές)<br>Stuffed Tomatos and Peppers        |                              |       €6,00 |
+| Γεμιστα Χωρις Κιμα (Ντομάτες και Πιπεριές)<br>Stuffed Tomatos and Peppers        |                              |       €7,00 |
 | Φασολάδα<br>Bean Soup with tomato                                                |                              |       €6,00 |
 | Λαχανοντολμάδες<br>Cabbage Rolles                                                |                              |      €12,00 |
-| Κολοκύθια Γεμιστα ,Αυγολέμονο<br>Zucchini Stuffed with lemon sauce               |                              |      €10,00 |
-| Ψαροσουπα<br>Fish Soup                                                           |                              |      €10,00 |
+| Κολοκύθια Γεμιστα ,Αυγολέμονο<br>Zucchini Stuffed with lemon sauce               |                              |      €12,00 |
+| Ψαροσουπα<br>Fish Soup                                                           |                              |      €12,00 |
 
 >Οι τιμές μπορούν να αλλάξουν χωρίς προειδοποίηση.  
->Στις τιμές συμπεριλαμβάνονται : ΦΠΑ 24% , Δημοτικός Φόρος.   
+>Στις τιμές συμπεριλαμβάνονται : ΦΠΑ 13% , Δημοτικός Φόρος.   
 >Το ελαιόλαδο είναι δικιά μας παραγωγή από Κυλλήνη Ηλείας
