@@ -15,6 +15,7 @@
   <img src="MASSIVE_ATTACK.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
   <img src="MOBY_1995.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
   <img src="SIGUR_ROS.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+  <img src="HIM.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 {{< /gallery >}}
 
   <img src="DOT_ALLISON.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
